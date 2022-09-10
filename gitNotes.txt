@@ -1,1 +1,7 @@
-git init to initialize aempty git repostitory : where your history will be stored  
+git init -  to initialize empty git repostitory : where your history will be stored  
+
+git status - to see the status of the file if it is tracked or not  
+
+git add . - to add all the changed file in the current folder to the stagit commit -m "message" - to  photograph  is taken 
+
+git log - to see all the commit made so far (aka all the photos taken so far )
