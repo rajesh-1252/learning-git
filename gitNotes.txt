@@ -1,0 +1,1 @@
+git init to initialize aempty git repostitory : where your history will be stored  
